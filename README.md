@@ -3,7 +3,7 @@
 You can install this package via npm:
 
 ```
-npm install greet-me
+npm install @boskomp/greet-me
 ```
 
 ## Usage
