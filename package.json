@@ -1,0 +1,19 @@
+{
+  "name": "@boskomp/greet-me",
+  "version": "1.0.0",
+  "description": "Simple greet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boskomp/greet.git"
+  },
+  "author": "boskomp",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/boskomp/greet/issues"
+  },
+  "homepage": "https://github.com/boskomp/greet#readme"
+}
