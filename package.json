@@ -1,6 +1,6 @@
 {
   "name": "@boskomp/greet-me",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple greet",
   "main": "index.js",
   "scripts": {
